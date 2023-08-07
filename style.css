@@ -9,5 +9,35 @@ header {
 }
 
 .logo, .menu {
+  width: 120px;
+  height:60px;
   background-color: #fbb3ff;
+}
+
+.logo {
+  width: 200px;
+}
+
+.sidebar {
+  background-color: #d8ffb6;
+}
+
+.main {
+  background-color: #00b522;
+}
+
+.box{
+  width: 25%;
+  height: 100px;
+  background-color: #fff75a;
+}
+
+footer {
+  background-color: #52a1ff;
+}
+
+.footer {
+  width: 45%;
+  height: 30px;
+  background-color: #b6e7ff;
 }
