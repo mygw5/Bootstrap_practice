@@ -4,18 +4,13 @@
   box-sizing: border-box;
 }
 
-header {
+.header {
   background-color: #ff00ff;
 }
 
 .logo, .menu {
-  width: 120px;
-  height:60px;
+  height:70px;
   background-color: #fbb3ff;
-}
-
-.logo {
-  width: 200px;
 }
 
 .sidebar {
@@ -27,17 +22,15 @@ header {
 }
 
 .box{
-  width: 25%;
-  height: 100px;
+  height: 130px;
   background-color: #fff75a;
 }
 
-footer {
+.footer {
   background-color: #52a1ff;
 }
 
-.footer {
-  width: 45%;
-  height: 30px;
+.footer-content {
+  height: 40px;
   background-color: #b6e7ff;
 }
